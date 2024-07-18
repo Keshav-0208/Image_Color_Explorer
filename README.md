@@ -1,6 +1,4 @@
-# :
-
-🖼️ Image_Color_Explorer
+# 🖼️ Image_Color_Explorer
 # OpenCV Color Zoom
 
 This project allows users to zoom into an image and detect the color of any pixel they click on. The project uses OpenCV for image processing and Pandas for handling color data.
