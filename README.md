@@ -19,4 +19,4 @@ This project allows users to zoom into an image and detect the color of any pixe
 - Data Flair training
 
 ## LICENSE
-- [MIT LICENSE] (https://github.com/Keshav-0208/Image_Color_Explorer/blob/main/LICENSE)
+- [MIT LICENSE](https://github.com/Keshav-0208/Image_Color_Explorer/blob/main/LICENSE)
