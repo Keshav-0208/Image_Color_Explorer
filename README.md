@@ -14,5 +14,9 @@ This project allows users to zoom into an image and detect the color of any pixe
 - 📷 OpenCV
 - 🐼 Pandas
 - 📊 NumPy
+  
 ## Credits
 - Data Flair training
+
+## LICENSE
+- [MIT LICENSE] (LICENSE)
